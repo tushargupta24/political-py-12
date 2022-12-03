@@ -1,0 +1,156 @@
+{
+  "political-qp-12":[
+      {
+      "id":1,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2015 Main Exam set-1",
+      "download":"assets/images/exam-12/political-12/political-2015-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2015-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":2,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2016 Main Exam set-1",
+      "download":"assets/images/exam-12/political-12/political-2016-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2016-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":3,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2017 Main Exam set-1",
+      "download":"assets/images/exam-12/political-12/political-2017-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2017-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":4,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2017 Main Exam set-2",
+      "download":"assets/images/exam-12/political-12/political-2017-set-2.pdf",
+      "view":"assets/images/exam-12/political-12/political-2017-set-2.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }, {
+      "id":5,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2019 Main Exam  set-1",
+      "download":"assets/images/exam-12/political-12/political-2019-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2019-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":6,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2019 Main Exam set-2",
+      "download":"assets/images/exam-12/political-12/political-2019-set-2.pdf",
+      "view":"assets/images/exam-12/political-12/political-2019-set-2.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":7,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2019 Main Exam set-3",
+      "download":"assets/images/exam-12/political-12/political-2019-set-3.pdf",
+      "view":"assets/images/exam-12/political-12/political-2019-set-3.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":8,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2020 Main Exam set-1",
+      "download":"assets/images/exam-12/political-12/political-2020-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2020-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":9,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Question Paper set-1",
+      "download":"assets/images/exam-12/political-12/political-2022-set-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }, {
+      "id":10,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Question Paper set-2",
+      "download":"assets/images/exam-12/political-12/political-2022-set-2.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set-2.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":11,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Question Paper set-3",
+      "download":"assets/images/exam-12/political-12/political-2022-set-3.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set-3.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":12,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Spoliticalnd Shift Paper set-1",
+      "download":"assets/images/exam-12/political-12/political-2022-set2-1.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set2-1.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":13,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Spoliticalnd Shift Paper set-2",
+      "download":"assets/images/exam-12/political-12/political-2022-set2-2.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set2-2.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    },
+    {
+      "id":14,
+      "subject":"political",
+      "image":"political",
+      "description":"Political Science- 2022 Previous Year Spoliticalnd Shift Paper set-3",
+      "download":"assets/images/exam-12/political-12/political-2022-set2-3.pdf",
+      "view":"assets/images/exam-12/political-12/political-2022-set2-3.pdf",
+      "author":"Tushar",
+      "class":"class-12"
+    
+    }
+  ]
+}
